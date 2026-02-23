@@ -4,11 +4,11 @@ The HLS-Trojan dataset consists of several features derived from different IP co
 
 ###### [2]	C. Pilato, et. al., “Black-Hat High-Level Synthesis: Myth or Reality?,” IEEE TVLSI, vol. 27, no. 4, pp. 913-926, April 2019.  
 
-[6]	A. Sengupta, et. al., “TL-HLS: Methodology for Low Cost Hardware Trojan Security Aware Scheduling With Optimal Loop Unrolling Factor During High Level Synthesis,”IEEE TCAD, 36 (4), pp.655-668, 2017.  
+###### [6]	A. Sengupta, et. al., “TL-HLS: Methodology for Low Cost Hardware Trojan Security Aware Scheduling With Optimal Loop Unrolling Factor During High Level Synthesis,”IEEE TCAD, 36 (4), pp.655-668, 2017.  
 
-[9]	A. Sengupta, et. al., “M-HLS: Malevolent High-Level Synthesis for Watermarked Hardware IPs,” IEEE Embedded Systems Letters, vol. 16, no. 4, pp. 497-500, Dec. 2024. 
+###### [9]	A. Sengupta, et. al., “M-HLS: Malevolent High-Level Synthesis for Watermarked Hardware IPs,” IEEE Embedded Systems Letters, vol. 16, no. 4, pp. 497-500, Dec. 2024. 
 
-[10]	A. Sengupta, N. Bhui “Time-Bomb HLS Trojan for Performance Degradation Payload,” IEEE Design & Test, vol. 42(5), pp. 83-92, 2025. 
+###### [10]	A. Sengupta, N. Bhui “Time-Bomb HLS Trojan for Performance Degradation Payload,” IEEE Design & Test, vol. 42(5), pp. 83-92, 2025. 
 
-[12]	A. Sengupta, et. al., “HLS Trojan Tampering Attack of IP Designs for Power Drainage using Timer-Sensitive Trojan Trigger based Automated Logic-Transformation,” IEEE ESL, 2026. 
+###### [12]	A. Sengupta, et. al., “HLS Trojan Tampering Attack of IP Designs for Power Drainage using Timer-Sensitive Trojan Trigger based Automated Logic-Transformation,” IEEE ESL, 2026. 
  
